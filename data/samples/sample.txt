@@ -1,0 +1,19 @@
+This is a sample text file for testing the AI chatbot's text retrieval capabilities.
+
+The chatbot can now process multiple document formats including:
+- Plain text files (.txt)
+- Microsoft Word documents (.docx)  
+- Excel spreadsheets (.xlsx, .xls)
+- CSV data files (.csv)
+- PDF documents (.pdf)
+
+This multi-format support allows users to upload various types of documents and ask questions about their content. The system uses advanced natural language processing to understand and retrieve relevant information from these documents.
+
+Key features:
+1. Document parsing and text extraction
+2. Semantic search capabilities
+3. Context-aware question answering
+4. Memory of conversation history
+5. Integration with external tools and APIs
+
+The AI assistant can help users find specific information, summarize content, answer questions, and perform calculations based on the uploaded documents.
